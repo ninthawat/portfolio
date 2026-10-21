@@ -102,6 +102,7 @@ Systems Analyst with experience across the SDLC and Agile methodologies, coverin
 
 ## Training & Awards
 
+- **2nd Place, Rush Project Pitching Competition** (Web Programming Essentials, Discovery Piscine), 42 Bangkok – KMITL (2026)
 - **Agile Leadership Certificate**, Beyond Training (2022)
 - **Agile Mindset Certificate**, Beyond Training (2022)
 - **R2M Start Up**, regional university business pitching competition, Ubon Ratchathani University (2018)
