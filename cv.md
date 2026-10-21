@@ -156,8 +156,8 @@ Knowledge-sharing and Q&A community on coding, infrastructure, system architectu
 ---
 
 ## Training & Awards
-
 - **2026** — 2nd Place, Rush Project Pitching Competition (Web Programming Essentials, Discovery Piscine), 42 Bangkok (KMITL)
+- **2026** — SQL Crash Course, DataRockie School
 - **2022** — Agile Mindset Certificate, Beyond Training
 - **2022** — Agile Leadership Certificate, Beyond Training
 - **2018** — R2M Startup: business pitching, UBU to the regional university class of Thailand
