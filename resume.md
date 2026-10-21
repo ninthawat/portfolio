@@ -32,7 +32,7 @@ Systems Analyst with experience across the SDLC and Agile methodologies, coverin
 ## Professional Experience
 
 ### Systems Analyst — Personal Info Data & Application Security
-**MyAIS Platform** · Bangkok, Thailand · *Mar 2024 – Jun 2026*
+**MyAIS Platform** · Bangkok, Thailand · *Mar 2024 – Present*
 
 - Applied AI to the team's work processes to reduce turnaround time.
 - Designed and configured master data and dynamic settings for RP app data requests on AIS ID, and validated personal data handling.
@@ -69,7 +69,6 @@ Systems Analyst with experience across the SDLC and Agile methodologies, coverin
 
 - Managed the Pawnshop system project for the Office of the Government Pawnshop, Department of Social Development and Welfare, as project manager and system analyst.
 - Consulted on a data governance project for the Ministry of Finance.
-- Taught the Laravel framework at Ubon Ratchathani University for the student management information system course (Business Faculty).
 
 ### Web Master & Web Developer
 **Ubonrak Hospital** · Ubon Ratchathani, Thailand · *2017 – 2020*
@@ -79,6 +78,7 @@ Systems Analyst with experience across the SDLC and Agile methodologies, coverin
 ### Earlier Experience
 *2016 – 2020*
 
+- **Lecturer**, Laravel framework for the student management information system course (Business Faculty), Ubon Ratchathani University (2020).
 - **Software Development**, The Queen's Project Office (His Majesty's Secretariat), Thimphu, Bhutan (2020): developed the OGOP (One Gewog One Product) e-commerce site and the Bhutan Agro Industries Limited website.
 - **Software Engineer**, personal identification service, NTBX (2020).
 - **Software Engineering**, cow-semen eco-tech project, Department of Livestock Development, Yasothon Province (2020).
